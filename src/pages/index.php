@@ -4,8 +4,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Modernize Free</title>
-  <link rel="shortcut icon" type="image/png" href="../assets/images/logos/favicon.png" />
+  <title>Mellow</title>
+  <link rel="shortcut icon" type="image/png" href="../assets/images/logos/mellow.png" />
   <link rel="stylesheet" href="../assets/css/styles.min.css" />
 </head>
 
@@ -19,7 +19,7 @@
       <div>
         <div class="brand-logo d-flex align-items-center justify-content-between">
           <a href="./index.html" class="text-nowrap logo-img">
-            <img src="../assets/images/logos/dark-logo.svg" width="180" alt="" />
+            <img src="../assets/images/logos/MELLOW.svg" width="180" alt="" />
           </a>
           <div class="close-btn d-xl-none d-block sidebartoggler cursor-pointer" id="sidebarCollapse">
             <i class="ti ti-x fs-8"></i>
@@ -42,7 +42,7 @@
             </li>
             <li class="nav-small-cap">
               <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
-              <span class="hide-menu">UI COMPONENTS</span>
+              <span class="hide-menu">Incident Reports</span>
             </li>
             <li class="sidebar-item">
               <a class="sidebar-link" href="./ui-buttons.html" aria-expanded="false">

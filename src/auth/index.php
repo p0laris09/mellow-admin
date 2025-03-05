@@ -14,7 +14,7 @@
   <script src="https://www.gstatic.com/firebasejs/9.14.0/firebase-auth.js"></script>
 
   <script type="module">
-  import { auth } from "../firebase-config.js";
+  import { auth } from "../firebase/firebase-config.js";
   import { signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-auth.js";
 
   // Listen for DOMContentLoaded once
